@@ -9,7 +9,6 @@ redirect_from:
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
   ghec: '*'
 topics:
   - Organizations
@@ -34,7 +33,7 @@ If you've created a custom repository role with an inherited role that is lower 
 **Notes:**
 
 - All changes to base permissions will affect both new and existing members.
-- {% data reusables.repositories.org-base-permssions-private-forks %}
+- {% data reusables.repositories.org-base-permissions-private-forks %}
 
 {% endnote %}
 
